@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text and Scroll View</string>
+    <string name="sentence">Handle keyboard issues : Use keyboard avoiding views while using text input.Use ‘keyboardShouldPersistTaps’ property in ScrollView and FlatList. Approved Libraries: KeyboardAvoidingView react-native API,react-native-keyboard-avoiding-scrollview npm</string>
+</resources>
